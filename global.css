@@ -1,0 +1,21 @@
+.card {
+  justify-content: space-between;
+  align-items: center;
+  background-color:aliceblue
+}
+
+.card-image {
+  object-fit: cover;
+  max-height: 50%; 
+  max-width: 50%; 
+}
+
+.card-text {
+  font-size: larger;
+  font-weight: bold;
+}
+
+span {
+  font-size: larger;
+  font-weight: bold;
+}
